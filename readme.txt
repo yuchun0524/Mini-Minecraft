@@ -46,7 +46,3 @@
 8、太陽模擬真實的運作(東升西落)
 9、U鍵可切換不同bgm、收集物品和消除怪物有音效
 10、玩家掉落會出現選單方便使用者重來
-
-六、Feedback
-1、希望在講transform、gameobject、component的時候能夠更清楚、更詳細一點。
-2、希望最後的homework可以簡單一點，可以讓我們有更多時間做final project。
