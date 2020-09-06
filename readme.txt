@@ -1,3 +1,5 @@
+遊玩前注意事項：第19組_UnityHomework_v2_Data資料夾中的resources.assets.rar需解壓縮
+
 一、How to play your game
 1、WASD控制人物移動，加shift可奔跑，空白鍵可跳躍
 2、Y播放bgm、T暫停bgm，U切換bgm
